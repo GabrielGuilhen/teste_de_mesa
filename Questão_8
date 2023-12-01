@@ -1,0 +1,25 @@
+ sort($lista_frutas);
+    foreach($lista_frutas as $key => $val) {
+        echo $key . "=" . $val ."\n";
+    
+print "\nTeste 5: ";
+    shuffle($lista_frutas);
+    foreach($lista_frutas as $key => $val) {
+        echo $key . "=" . $val ."\n";
+    }
+
+CONSOLE --> ]
+Teste 0:int(4)
+Teste 1:bool(true)
+Teste 2:bool(false)
+Teste 3:int(3)
+Teste 4:
+0=abacaxi
+1=banana
+2=melão
+3=morango
+Teste 5:
+0=morango
+1=abacaxi
+2=melão
+3=banana
