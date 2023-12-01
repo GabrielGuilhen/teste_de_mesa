@@ -1,0 +1,14 @@
+CONSOLE:
+TESTE 0:int(5)
+TESTE 1:bool(true)
+TESTE 2:bool(false)
+TESTE 3:bool(false)
+TESTE 4:bool(true)
+TESTE 5:string(4) "nome"
+TESTE 6:string(9) "profissao"
+TESTE 7:
+0 = 1.8
+1 = 54
+2 = Astronauta
+3 = Físico
+4 = John Doe
